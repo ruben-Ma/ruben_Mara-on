@@ -88,4 +88,5 @@ class PersistentManager {
     // evita que la instancia sea deserializada.
     public function __wakeup() {}
 }
+
 ?>
